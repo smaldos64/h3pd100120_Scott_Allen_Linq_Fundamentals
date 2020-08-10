@@ -27,7 +27,9 @@
 //#define Video6_Aggreating_Data
 //#define Video6_Aggregation_With_Extended_Method
 
-#define Video8_Inserting_Data_Into_A_New_Database
+//#define Video8_Inserting_Data_Into_A_New_Database
+//#define Video8_Writing_A_Basic_Query_With_Linq
+#define Video8_Working_With_IQueryables_And_Expression_Trees
 
 using Scott_Allen_Linq_Fundamentals.Core.Domain;
 using System;
@@ -153,6 +155,14 @@ namespace Scott_Allen_Linq_Fundamentals
 
 #if (Video8_Inserting_Data_Into_A_New_Database)
             Video8_Inserting_Data_Into_A_New_Database.Video8_Inserting_Data_Into_A_New_Database_Start();
+#endif
+
+#if (Video8_Writing_A_Basic_Query_With_Linq)
+            Video8_Writing_A_Basic_Query_With_Linq.Video8_Writing_A_Basic_Query_With_Linq_Start();
+#endif
+
+#if (Video8_Working_With_IQueryables_And_Expression_Trees)
+            Video8_Working_With_IQueryables_And_Expression_Trees.Video8_Working_With_IQueryables_And_Expression_Trees_Start();
 #endif
 
             Console.ReadLine();    

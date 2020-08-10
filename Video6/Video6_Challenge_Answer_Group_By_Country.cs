@@ -29,6 +29,10 @@ namespace Scott_Allen_Linq_Fundamentals.Video6
 
             // Query Syntax herunder
 
+            Console.WriteLine("");
+            Console.WriteLine("Query Syntax");
+            Console.WriteLine("");
+
             var queryQuerySyntax =
                 from manufacturer in manufacturers
                 join car in cars on manufacturer.Name equals car.Manufacturer

@@ -1,11 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore.Storage;
-using Scott_Allen_Linq_Fundamentals.Context;
-using Scott_Allen_Linq_Fundamentals.Files;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-//using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
+
+using Scott_Allen_Linq_Fundamentals.Context;
+using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
@@ -13,13 +13,12 @@ namespace Scott_Allen_Linq_Fundamentals.Video8
     {
         public static void Video8_Inserting_Data_Into_A_New_Database_Start()
         {
-            InsertData();
-            QueryData();
-        }
+            Console.WriteLine("");
+            Console.WriteLine("Video8_Inserting_Data_Into_A_New_Database");
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("");
 
-        private static void QueryData()
-        {
-            throw new NotImplementedException();
+            InsertData();
         }
 
         private static void InsertData()
