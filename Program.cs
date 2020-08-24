@@ -29,7 +29,9 @@
 
 //#define Video8_Inserting_Data_Into_A_New_Database
 //#define Video8_Writing_A_Basic_Query_With_Linq
-#define Video8_Working_With_IQueryables_And_Expression_Trees
+//#define Video8_Working_With_IQueryables_And_Expression_Trees
+//#define Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ
+#define Video8_An_Advanced_LINQ_Query
 
 using Scott_Allen_Linq_Fundamentals.Core.Domain;
 using System;
@@ -163,6 +165,14 @@ namespace Scott_Allen_Linq_Fundamentals
 
 #if (Video8_Working_With_IQueryables_And_Expression_Trees)
             Video8_Working_With_IQueryables_And_Expression_Trees.Video8_Working_With_IQueryables_And_Expression_Trees_Start();
+#endif
+
+#if (Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ)
+            Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ.Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ_Start();
+#endif
+
+#if (Video8_An_Advanced_LINQ_Query)
+            Video8_An_Advanced_LINQ_Query.Video8_An_Advanced_LINQ_Query_Start();
 #endif
 
             Console.ReadLine();    

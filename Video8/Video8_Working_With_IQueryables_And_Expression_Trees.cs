@@ -62,11 +62,6 @@ namespace Scott_Allen_Linq_Fundamentals.Video8
             Console.WriteLine(addExpression.Compile()(6, 8));
             Console.WriteLine(addExpression.Compile().Invoke(6, 8));
             //result = addExpression.Body(4, 8);
-
-            //var queryMethodSyntax = db.Cars.
-            //    OrderByDescending(c => c.Combined).
-            //    ThenBy(c => c.Name).
-            //    Take(10);
         }
     }
 }
