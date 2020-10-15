@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    public class Video5_Flattering_Data_With_SelectMany
+    public class Video5_9_Flattering_Data_With_SelectMany
     {
-        public static void Video5_Flattering_Data_With_SelectMany_Start()
+        public static void Video5_9_Flattering_Data_With_SelectMany_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Flattering_Data_With_SelectMany");
+            Console.WriteLine("Video5_9_Flattering_Data_With_SelectMany");
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
 

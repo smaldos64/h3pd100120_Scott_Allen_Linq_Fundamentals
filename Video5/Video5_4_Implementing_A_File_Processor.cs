@@ -10,12 +10,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    public class Video5_Implementing_A_File_Processor
+    public class Video5_4_Implementing_A_File_Processor
     {
-        public static void Video5_Implementing_A_File_Processor_Start()
+        public static void Video5_4_Implementing_A_File_Processor_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Implementing_A_File_Processor");
+            Console.WriteLine("Video5_4_Implementing_A_File_Processor");
             Console.WriteLine("------------------------------------");
             Console.WriteLine("");
 

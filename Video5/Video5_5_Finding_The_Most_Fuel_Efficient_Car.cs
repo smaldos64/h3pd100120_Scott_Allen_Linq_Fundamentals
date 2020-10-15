@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    class Video5_Finding_The_Most_Fuel_Efficient_Car
+    class Video5_5_Finding_The_Most_Fuel_Efficient_Car
     {
-        public static void Video5_Finding_The_Most_Fuel_Efficient_Car_Start()
+        public static void Video5_5_Finding_The_Most_Fuel_Efficient_Car_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Finding_The_Most_Fuel_Efficient_Car");
+            Console.WriteLine("Video5_5_Finding_The_Most_Fuel_Efficient_Car");
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("");
 

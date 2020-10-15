@@ -8,10 +8,15 @@ using Scott_Allen_Linq_Fundamentals.Core.Domain;
 
 namespace Scott_Allen_Linq_Fundamentals.Video3
 {
-    public class Video3_Understanding_Lambda_Expression
+    public class Video3_5_Understanding_Lambda_Expression
     {
-        public static void Video3_Understanding_Lambda_Expression_Start()
+        public static void Video3_5_Understanding_Lambda_Expression_Start()
         {
+            Console.WriteLine("");
+            Console.WriteLine("Video3_5_Understanding_Lambda_Expression");
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("");
+
             // Selvom Lambda Expressions mange gange hører sammen med Linq kode, kan 
             // Lambda Expression også sagtens fungere på "egen hånd".
 

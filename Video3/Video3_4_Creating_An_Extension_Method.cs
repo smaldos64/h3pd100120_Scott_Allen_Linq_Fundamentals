@@ -8,10 +8,15 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video3
 {
-    public class Video3_Creating_An_Extension_Method
+    public class Video3_4_Creating_An_Extension_Method
     {
-        public static void Video3_Creating_An_Extension_Method_Start()
+        public static void Video3_4_Creating_An_Extension_Method_Start()
         {
+            Console.WriteLine("");
+            Console.WriteLine("Video3_4_Creating_An_Extension_Method");
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("");
+
             string Test = "1234";
             double TestDouble = Test.ToDouble();
             System.Console.WriteLine("TestDouble : {0}", TestDouble);

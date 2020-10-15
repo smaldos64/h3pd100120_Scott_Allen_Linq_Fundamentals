@@ -9,10 +9,10 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    public class Video4_All_About_Streaming_Operators
+    public class Video4_8_All_About_Streaming_Operators
     {
 
-        public static void Video4_All_About_Streaming_Operators_Start()
+        public static void Video4_8_All_About_Streaming_Operators_Start()
         {
             // Deferred Execution Operators => Streaming Operators eller Non Streaming Operators.
             // Where operatoren er en Deferred Execution Operator og en Streaming Operator.
@@ -24,7 +24,7 @@ namespace Scott_Allen_Linq_Fundamentals.Video4
             // OrderByDescending ikke er en Streaming Operator
 
             Console.WriteLine("");
-            Console.WriteLine("Video4_All_About_Streaming_Operators");
+            Console.WriteLine("Video4_8_All_About_Streaming_Operators");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 

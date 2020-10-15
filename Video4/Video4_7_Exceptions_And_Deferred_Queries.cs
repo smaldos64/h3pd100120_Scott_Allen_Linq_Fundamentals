@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    public class Video4_Exceptions_And_Deferred_Scott_Allen_Linq_Fundamentals
+    public class Video4_7_Exceptions_And_Deferred_Queries
     {
-        public static void Video4_Exceptions_And_Deferred_Scott_Allen_Linq_Fundamentals_Start()
+        public static void Video4_7_Exceptions_And_Deferred_Queries_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video4_Exceptions_And_Deferred_Scott_Allen_Linq_Fundamentals");
+            Console.WriteLine("Video4_7_Exceptions_And_Deferred_Scott_Allen_Linq_Fundamentals");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 

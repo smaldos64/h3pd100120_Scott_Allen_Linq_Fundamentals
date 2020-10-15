@@ -11,12 +11,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    class Video5_Projecting_Data_With_Select
+    class Video5_8_Projecting_Data_With_Select
     {
-        public static void Video5_Projecting_Data_With_Select_Start()
+        public static void Video5_8_Projecting_Data_With_Select_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Projecting_Data_With_Select");
+            Console.WriteLine("Video5_8_Projecting_Data_With_Select");
             Console.WriteLine("----------------------------------");
             Console.WriteLine("");
 

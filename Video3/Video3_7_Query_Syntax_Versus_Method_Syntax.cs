@@ -8,10 +8,15 @@ using Scott_Allen_Linq_Fundamentals.Core.Domain;
 
 namespace Scott_Allen_Linq_Fundamentals.Video3
 {
-    public class Video3_Query_Syntax_Versus_Method_Syntax
+    public class Video3_7_Query_Syntax_Versus_Method_Syntax
     {
-        public static void Video3_Query_Syntax_Versus_Method_Syntax_Start()
+        public static void Video3_7_Query_Syntax_Versus_Method_Syntax_Start()
         {
+            Console.WriteLine("");
+            Console.WriteLine("Video3_7_Query_Syntax_Versus_Method_Syntax");
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("");
+
             IEnumerable<Employee> developers_IEnumerable = new List<Employee>()
             {
                 new Employee {Id = 4, Name = "Scott"},

@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    class Video4_Avoiding_Pittfalls_Of_Deferred_Execution
+    class Video4_6_Avoiding_Pittfalls_Of_Deferred_Execution
     {
-        public static void Video4_Avoiding_Pittfalls_Of_Deferred_Execution_Start()
+        public static void Video4_6_Avoiding_Pittfalls_Of_Deferred_Execution_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video4_Avoiding_Pittfalls_Of_Deferred_Execution");
+            Console.WriteLine("Video4_6_Avoiding_Pittfalls_Of_Deferred_Execution");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 

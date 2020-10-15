@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    public class Video4_Taking_Advantage_Of_Deferred_Execution
+    public class Video4_3_Taking_Advantage_Of_Deferred_Execution
     {
-        public static void Video4_Taking_Advantage_Of_Deferred_Execution_Start()
+        public static void Video4_3_Taking_Advantage_Of_Deferred_Execution_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video4_Taking_Advantage_Of_Deferred_Execution");
+            Console.WriteLine("Video4_3_Taking_Advantage_Of_Deferred_Execution");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 

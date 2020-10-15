@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    class Video5_Quantifying_Data_With_Any_All_Contains
+    class Video5_7_Quantifying_Data_With_Any_All_Contains
     {
-        public static void Video5_Quantifying_Data_With_Any_All_Contains_Start()
+        public static void Video5_7_Quantifying_Data_With_Any_All_Contains_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Quantifying_Data_With_Any_All_Contains");
+            Console.WriteLine("Video5_7_Quantifying_Data_With_Any_All_Contains");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 

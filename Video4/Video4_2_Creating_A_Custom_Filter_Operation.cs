@@ -9,13 +9,13 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    class Video4_Creating_A_Custom_Filter_Operation
+    class Video4_2_Creating_A_Custom_Filter_Operation
     {
         // Third Execution 
-        public static void Video4_Creating_A_Custom_Filter_Operation_start()
+        public static void Video4_2_Creating_A_Custom_Filter_Operation_start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video4_Creating_A_Custom_Filter_Operation");
+            Console.WriteLine("Video4_2_Creating_A_Custom_Filter_Operation");
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine("");
 

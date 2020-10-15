@@ -8,10 +8,15 @@ using Scott_Allen_Linq_Fundamentals.Core.Domain;
 
 namespace Scott_Allen_Linq_Fundamentals.Video3
 {
-    public class Video3_Using_Func_And_Action_Types
+    public class Video3_6_Using_Func_And_Action_Types
     {
-        public static void Video_3_Using_Func_And_Action_Types_Start()
+        public static void Video_3_6_Using_Func_And_Action_Types_Start()
         {
+            Console.WriteLine("");
+            Console.WriteLine("Video_3_6_Using_Func_And_Action_Types");
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("");
+
             IEnumerable<Employee> developers_IEnumerable = new List<Employee>()
             {
                 new Employee {Id = 4, Name = "Scott_IEnumerable"},

@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video5
 {
-    class Video5_Filtering_With_Where_And_First
+    class Video5_6_Filtering_With_Where_And_First
     {
-        public static void Video5_Filtering_With_Where_And_First_Start()
+        public static void Video5_6_Filtering_With_Where_And_First_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video5_Filtering_With_Where_And_First");
+            Console.WriteLine("Video5_6_Filtering_With_Where_And_First");
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
 

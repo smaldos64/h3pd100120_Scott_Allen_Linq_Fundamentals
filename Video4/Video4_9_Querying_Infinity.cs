@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Extensions;
 
 namespace Scott_Allen_Linq_Fundamentals.Video4
 {
-    public class Video4_Querying_Infinity
+    public class Video4_9_Querying_Infinity
     {
-        public static void Video4_Querying_Infinity_Start()
+        public static void Video4_9_Querying_Infinity_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video4_Querying_Infinity");
+            Console.WriteLine("Video4_9_Querying_Infinity");
             Console.WriteLine("---------------------------------------------");
             Console.WriteLine("");
 
