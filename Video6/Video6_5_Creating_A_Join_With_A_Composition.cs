@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    public class Video6_Creating_A_Join_With_A_Composition
+    public class Video6_5_Creating_A_Join_With_A_Composition
     {
-        public static void Video6_Creating_A_Join_With_A_Composition_Start()
+        public static void Video6_5_Creating_A_Join_With_A_Composition_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Creating_A_Join_With_A_Composition");
+            Console.WriteLine("Video6_5_Creating_A_Join_With_A_Composition");
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine("");
 

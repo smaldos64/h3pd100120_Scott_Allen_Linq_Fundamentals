@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    public class Video6_Joining_Data_With_Query_Syntax
+    public class Video6_3_Joining_Data_With_Query_Syntax
     {
-        public static void Video6_Joining_Data_With_Query_Syntax_Start()
+        public static void Video6_3_Joining_Data_With_Query_Syntax_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Joining_Data_With_Query_Syntax");
+            Console.WriteLine("Video6_3_Joining_Data_With_Query_Syntax");
             Console.WriteLine("-------------------------------------");
             Console.WriteLine("");
 

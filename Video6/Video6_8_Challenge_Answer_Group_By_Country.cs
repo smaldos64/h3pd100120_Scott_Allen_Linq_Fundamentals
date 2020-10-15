@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    class Video6_Challenge_Answer_Group_By_Country
+    class Video6_8_Challenge_Answer_Group_By_Country
     {
-        public static void Video6_Challenge_Answer_Group_By_Country_start()
+        public static void Video6_8_Challenge_Answer_Group_By_Country_start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Challenge_Answer_Group_By_Country");
+            Console.WriteLine("Video6_8_Challenge_Answer_Group_By_Country");
             Console.WriteLine("----------------------------------------");
             Console.WriteLine("");
 

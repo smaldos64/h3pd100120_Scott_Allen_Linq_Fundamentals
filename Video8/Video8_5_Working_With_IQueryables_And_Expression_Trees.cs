@@ -7,9 +7,9 @@ using System.Text;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
-    class Video8_Working_With_IQueryables_And_Expression_Trees
+    class Video8_5_Working_With_IQueryables_And_Expression_Trees
     {
-        public static void Video8_Working_With_IQueryables_And_Expression_Trees_Start()
+        public static void Video8_5_Working_With_IQueryables_And_Expression_Trees_Start()
         {
             var db = new DatabaseContext();
 
@@ -34,7 +34,7 @@ namespace Scott_Allen_Linq_Fundamentals.Video8
             // Expression<Func<Car,bool>>. Ved IEnumerable returneres der en Func af Cars og bool. 
 
             Console.WriteLine("");
-            Console.WriteLine("Video8_Working_With_IQueryables_And_Expression_Trees");
+            Console.WriteLine("Video8_5_Working_With_IQueryables_And_Expression_Trees");
             Console.WriteLine("----------------------------------------------------");
             Console.WriteLine("");
 

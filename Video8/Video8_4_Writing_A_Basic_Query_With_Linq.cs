@@ -8,12 +8,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
-    public class Video8_Writing_A_Basic_Query_With_Linq
+    public class Video8_4_Writing_A_Basic_Query_With_Linq
     {
-        public static void Video8_Writing_A_Basic_Query_With_Linq_Start()
+        public static void Video8_4_Writing_A_Basic_Query_With_Linq_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video8_Writing_A_Basic_Query_With_Linq");
+            Console.WriteLine("Video8_4_Writing_A_Basic_Query_With_Linq");
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
 
@@ -24,8 +24,7 @@ namespace Scott_Allen_Linq_Fundamentals.Video8
         {
             int LoopCounter = 0;
             var db = new DatabaseContext();
-            //db.Database. = Console.WriteLine;
-
+         
             Console.WriteLine("");
             Console.WriteLine("Query Syntax");
             Console.WriteLine("");

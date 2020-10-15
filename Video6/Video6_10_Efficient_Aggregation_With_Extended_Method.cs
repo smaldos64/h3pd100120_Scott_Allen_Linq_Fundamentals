@@ -11,12 +11,12 @@ using Scott_Allen_Linq_Fundamentals.Statistics;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    class Video6_Aggregation_With_Extended_Method
+    class Video6_10_Efficient_Aggregation_With_Extended_Method
     {
-        public static void Video6_Aggregation_With_Extended_Method_Start()
+        public static void Video6_10_Efficient_Aggregation_With_Extended_Method_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Aggreating_Data");
+            Console.WriteLine("Video6_10_Efficient_Aggregation_With_Extended_Method");
             Console.WriteLine("----------------------");
             Console.WriteLine("");
 

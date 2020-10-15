@@ -6,12 +6,12 @@ using System.Text;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
-    public class Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ
+    public class Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ
     {
-        public static void Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ_Start()
+        public static void Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ");
+            Console.WriteLine("Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ");
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("");
 

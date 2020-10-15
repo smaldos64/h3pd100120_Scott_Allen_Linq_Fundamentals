@@ -10,12 +10,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    public class Video6_Using_A_GroupJoin_For_Hierarchy
+    public class Video6_7_Using_A_GroupJoin_For_Hierarchy
     {
-        public static void Video6_Using_A_GroupJoin_For_Hierarchy_Start()
+        public static void Video6_7_Using_A_GroupJoin_For_Hierarchy_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Using_A_GroupJoin_For_Hierarchy");
+            Console.WriteLine("Video6_7_Using_A_GroupJoin_For_Hierarchy");
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
 

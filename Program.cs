@@ -1,22 +1,22 @@
-﻿#define Video3_3_The_Power_Of_IEnumerable
-#define Video3_4_Creating_An_Extension_Method
-#define Video3_5_Understanding_Lambda_Expression
-#define Video_3_6_Using_Func_And_Action_Types
-#define Video3_7_Query_Syntax_Versus_Method_Syntax
+﻿//#define Video3_3_The_Power_Of_IEnumerable
+//#define Video3_4_Creating_An_Extension_Method
+//#define Video3_5_Understanding_Lambda_Expression
+//#define Video_3_6_Using_Func_And_Action_Types
+//#define Video3_7_Query_Syntax_Versus_Method_Syntax
 
-#define Video4_2_Creating_A_Custom_Filter_Operation
-#define Video4_3_Taking_Advantage_Of_Deferred_Execution
-#define Video4_6_Avoiding_Pittfalls_Of_Deferred_Execution
-#define Video4_7_Exceptions_And_Deferred_Queries
-#define Video4_8_All_About_Streaming_Operators
-#define Video4_9_Querying_Infinity
+//#define Video4_2_Creating_A_Custom_Filter_Operation
+//#define Video4_3_Taking_Advantage_Of_Deferred_Execution
+//#define Video4_6_Avoiding_Pittfalls_Of_Deferred_Execution
+//#define Video4_7_Exceptions_And_Deferred_Queries
+//#define Video4_8_All_About_Streaming_Operators
+//#define Video4_9_Querying_Infinity
 
-#define Video5_4_Implementing_A_File_Processor
-#define Video5_5_Finding_The_Most_Fuel_Efficient_Car
-#define Video5_6_Filtering_With_Where_And_First
-#define Video5_7_Quantifying_Data_With_Any_All
-#define Video5_8_Projecting_Data_With_Select
-#define Video5_9_Flattering_Data_With_SelectMany
+//#define Video5_4_Implementing_A_File_Processor
+//#define Video5_5_Finding_The_Most_Fuel_Efficient_Car
+//#define Video5_6_Filtering_With_Where_And_First
+//#define Video5_7_Quantifying_Data_With_Any_All
+//#define Video5_8_Projecting_Data_With_Select
+//#define Video5_9_Flattering_Data_With_SelectMany
 
 //#define Video6_3_Joining_Data_With_Query_Syntax
 //#define Video6_4_Joining_Data_Using_Extension_Method_Syntax
@@ -123,56 +123,56 @@ namespace Scott_Allen_Linq_Fundamentals
 #endif
 
 
-#if (Video6_Joining_Data_With_Query_Syntax)
-            Video6_Joining_Data_With_Query_Syntax.Video6_Joining_Data_With_Query_Syntax_Start();
+#if (Video6_3_Joining_Data_With_Query_Syntax)
+            Video6_3_Joining_Data_With_Query_Syntax.Video6_3_Joining_Data_With_Query_Syntax_Start();
 #endif
 
-#if (Video6_Joining_Data_With_Extension_Method_Syntax)
-            Video6_Joining_Data_With_Extension_Method_Syntax.Video6_Joining_Data_With_Extension_Method_Syntax_Start();
+#if (Video6_4_Joining_Data_Using_Extension_Method_Syntax)
+            Video6_4_Joining_Data_Using_Extension_Method_Syntax.Video6_4_Joining_Data_Using_Extension_Method_Syntax_Start();
 #endif
 
-#if (Video6_Creating_A_Join_With_A_Composition)
-            Video6_Creating_A_Join_With_A_Composition.Video6_Creating_A_Join_With_A_Composition_Start();
+#if (Video6_5_Creating_A_Join_With_A_Composition)
+            Video6_5_Creating_A_Join_With_A_Composition.Video6_5_Creating_A_Join_With_A_Composition_Start();
 #endif
 
-#if (Video6_Grouping_Data)
-            Video6_Grouping_Data.Video6_Grouping_Data_Start();
+#if (Video6_6_Grouping_Data)
+            Video6_6_Grouping_Data.Video6_6_Grouping_Data_Start();
 #endif
 
-#if (Video6_Using_A_GroupJoin_For_Hierarchy)
-            Video6_Using_A_GroupJoin_For_Hierarchy.Video6_Using_A_GroupJoin_For_Hierarchy_Start();
+#if (Video6_7_Using_A_GroupJoin_For_Hierarchy)
+            Video6_7_Using_A_GroupJoin_For_Hierarchy.Video6_7_Using_A_GroupJoin_For_Hierarchy_Start();
 #endif
 
-#if (Video6_Challenge_Answer_Group_By_Country)
-            Video6_Challenge_Answer_Group_By_Country.Video6_Challenge_Answer_Group_By_Country_start();
+#if (Video6_8_Challenge_Answer_Group_By_Country)
+            Video6_8_Challenge_Answer_Group_By_Country.Video6_8_Challenge_Answer_Group_By_Country_start();
 #endif
 
-#if (Video6_Aggreating_Data)
-            Video6_Aggreating_Data.Video6_Aggreating_Data_Start();
+#if (Video6_9_Aggreating_Data)
+            Video6_9_Aggreating_Data.Video6_9_Aggreating_Data_Start();
 #endif
 
-#if (Video6_Aggregation_With_Extended_Method)
-            Video6_Aggregation_With_Extended_Method.Video6_Aggregation_With_Extended_Method_Start();
+#if (Video6_10_Efficient_Aggregation_With_Extended_Method)
+            Video6_10_Efficient_Aggregation_With_Extended_Method.Video6_10_Efficient_Aggregation_With_Extended_Method_Start();
 #endif
 
-#if (Video8_Inserting_Data_Into_A_New_Database)
-            Video8_Inserting_Data_Into_A_New_Database.Video8_Inserting_Data_Into_A_New_Database_Start();
+#if (Video8_3_Inserting_Data_Into_A_New_Database)
+            Video8_3_Inserting_Data_Into_A_New_Database.Video8_3_Inserting_Data_Into_A_New_Database_Start();
 #endif
 
-#if (Video8_Writing_A_Basic_Query_With_Linq)
-            Video8_Writing_A_Basic_Query_With_Linq.Video8_Writing_A_Basic_Query_With_Linq_Start();
+#if (Video8_4_Writing_A_Basic_Query_With_Linq)
+            Video8_4_Writing_A_Basic_Query_With_Linq.Video8_4_Writing_A_Basic_Query_With_Linq_Start();
 #endif
 
-#if (Video8_Working_With_IQueryables_And_Expression_Trees)
-            Video8_Working_With_IQueryables_And_Expression_Trees.Video8_Working_With_IQueryables_And_Expression_Trees_Start();
+#if (Video8_5_Working_With_IQueryables_And_Expression_Trees)
+            Video8_5_Working_With_IQueryables_And_Expression_Trees.Video8_5_Working_With_IQueryables_And_Expression_Trees_Start();
 #endif
 
-#if (Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ)
-            Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ.Video8_Ceavats_And_Pitfalls_Of_Remote_LINQ_Start();
+#if (Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ)
+            Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ.Video8_6_Ceavats_And_Pitfalls_Of_Remote_LINQ_Start();
 #endif
 
-#if (Video8_An_Advanced_LINQ_Query)
-            Video8_An_Advanced_LINQ_Query.Video8_An_Advanced_LINQ_Query_Start();
+#if (Video8_7_An_Advanced_LINQ_Query)
+            Video8_7_An_Advanced_LINQ_Query.Video8_7_An_Advanced_LINQ_Query_Start();
 #endif
 
             Console.ReadLine();    

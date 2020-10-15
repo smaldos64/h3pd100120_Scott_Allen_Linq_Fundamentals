@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
-    public class Video8_Inserting_Data_Into_A_New_Database
+    public class Video8_3_Inserting_Data_Into_A_New_Database
     {
-        public static void Video8_Inserting_Data_Into_A_New_Database_Start()
+        public static void Video8_3_Inserting_Data_Into_A_New_Database_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video8_Inserting_Data_Into_A_New_Database");
+            Console.WriteLine("Video8_3_Inserting_Data_Into_A_New_Database");
             Console.WriteLine("-----------------------------------------");
             Console.WriteLine("");
 

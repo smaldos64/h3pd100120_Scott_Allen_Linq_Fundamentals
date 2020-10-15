@@ -9,12 +9,12 @@ using Scott_Allen_Linq_Fundamentals.Files;
 
 namespace Scott_Allen_Linq_Fundamentals.Video6
 {
-    public class Video6_Grouping_Data
+    public class Video6_6_Grouping_Data
     {
-        public static void Video6_Grouping_Data_Start()
+        public static void Video6_6_Grouping_Data_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video6_Grouping_Data");
+            Console.WriteLine("Video6_6_Grouping_Data");
             Console.WriteLine("--------------------");
             Console.WriteLine("");
 

@@ -8,12 +8,12 @@ using System.Linq;
 
 namespace Scott_Allen_Linq_Fundamentals.Video8
 {
-    public class Video8_An_Advanced_LINQ_Query
+    public class Video8_7_An_Advanced_LINQ_Query
     {
-        public static void Video8_An_Advanced_LINQ_Query_Start()
+        public static void Video8_7_An_Advanced_LINQ_Query_Start()
         {
             Console.WriteLine("");
-            Console.WriteLine("Video8_An_Advanced_LINQ_Query");
+            Console.WriteLine("Video8_7_An_Advanced_LINQ_Query");
             Console.WriteLine("-----------------------------");
             Console.WriteLine("");
 
